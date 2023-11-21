@@ -19,3 +19,6 @@ Google API based, PHP Script
 Easy to configure and Edit
 Single Configeration file to have basic settings and functions
 Search inside Google database
+
+![Screenshot121345](https://github.com/Mohkadd98/google-email-extractor/assets/90988275/36a70162-1138-4994-9a02-0696094880ad)
+![Screenshot121237](https://github.com/Mohkadd98/google-email-extractor/assets/90988275/43552344-7c1d-4200-98cd-00c3a484b043)
